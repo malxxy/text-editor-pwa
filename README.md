@@ -27,17 +27,17 @@ Please visit the Herolu deployment link to use this text editor.
 <br>
 Demo of the application in browser:
 <br>
-![](browser.png)
+![](./img/browser.png)
 <br>
 Demo to install the application:
 <br>
 <br>
-![](install.png)
+![](./img/install.png)
 <br>
 demo of application on local machine:
 <br>
 <br>
-![](local.png)
+![](./img/local.png)
 <br>
 
 ## License
